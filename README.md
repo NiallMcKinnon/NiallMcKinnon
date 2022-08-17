@@ -1,5 +1,10 @@
-# <p style="text-align: center;">Niall McKinnon</p>
-### *<p style="text-align: center;">This Page Under Construction</p>*
+### *This page under construction...*
+---
+### Hello and thanks for stopping by! I'm Niall, currently an undergraduate senior studying computer science. I am currently seeking internship opportunities for summer 2023, as I plan to begin a master's degree next fall.
+
+---
+
+<!-- ## ![uncw logo](./images/uncw.png) University of North Carolina Wilmington -->
 
 <!--
 **NiallMcKinnon/NiallMcKinnon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
