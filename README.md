@@ -1,6 +1,6 @@
 ### *This page under construction...*
 ---
-### Hello and thanks for stopping by! I'm Niall, currently an undergraduate senior studying computer science. I am currently seeking internship opportunities for summer 2023, as I plan to begin a master's degree next fall.
+### Hello and thanks for stopping by! I'm Niall, currently an undergraduate senior studying computer science.
 
 ---
 
